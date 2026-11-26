@@ -3,7 +3,7 @@
   "name": "module-billing-domains-api",
   "display_name": "Billing Domains Api",
   "description": "Api adapter for Billing Domains.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Domains\\Api\\DomainsApiServiceProvider",
   "requires": {
